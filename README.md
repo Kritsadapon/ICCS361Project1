@@ -1,4 +1,4 @@
-# ICCS361Project1\
+# ICCS361Project1
 
 This project is to perform on EDA analysis on the dta on e-commerce. The data is from 2019 - October month only. THe data consist of 44millions row and 8 column.
 
